@@ -10,30 +10,27 @@
   <title>Frontend Mentor | Interactive rating component</title>
 </head>
 <body>
-
-  <!-- Rating state start -->
-
-  How did we do?
-
-  Please let us know how we did with your support request. All feedback is appreciated
-  to help us improve our offering!
-
-  1 2 3 4 5
-
-  Submit
-
-  <!-- Rating state end -->
-
-  <!-- Thank you state start -->
-
-  You selected <!-- Add rating here --> out of 5
-
-  Thank you!
-
-  We appreciate you taking the time to give a rating. If you ever need more support,
-  don't hesitate to get in touch!
-
-  <!-- Thank you state end -->
+  <main class="card">
+    <section class="card__rating">
+      <!-- Rating state start -->
+      <img>
+      <h1>How did we do?</h1>
+      <p>Please let us know how we did with your support request. All feedback is appreciated to help us improve our offering!</p>
+      <form>
+        1 2 3 4 5
+        Submit
+      </form>
+      <!-- Rating state end -->
+    </section>
+    <section class="card__thank-you">
+      <!-- Thank you state start -->
+      <img>
+      <div>You selected <!-- Add rating here --> out of 5</div>
+      <h1>Thank you!</h1>
+      <p>We appreciate you taking the time to give a rating. If you ever need more support, don't hesitate to get in touch!</p>
+      <!-- Thank you state end -->
+    </section>
+  </main>
   <script src="./js/main.js"></script>
 </body>
 </html>
