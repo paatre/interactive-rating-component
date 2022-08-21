@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot of the page](./screenshot.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -43,8 +43,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/paatre/interactive-rating-component)
+- Live Site URL: [GitHub Pages](https://paatre.github.io/interactive-rating-component/)
 
 ## My process
 
@@ -100,9 +100,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub - [@paatre](https://github.com/paatre/)
+- Frontend Mentor - [@paatre](https://www.frontendmentor.io/profile/paatre)
+- Twitter - [@teemuviikeri](https://twitter.com/TeemuViikeri)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
